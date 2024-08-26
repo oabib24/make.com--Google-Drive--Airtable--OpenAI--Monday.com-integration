@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "model": "gpt-4o",
+        "message": "Get Headline, Demographic, Word Count, Tagline, Inside This Issue, Description, Date of First Use in https://us-east.storage.cloudconvert.com/tasks/f4408bb3-6060-42eb-9e99-9d30aa49c342/2023360JanLawSeasonal-5-Tips-for-Conquering-Dry-January.docx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240825%2Fva%2Fs3%2Faws4_request&X-Amz-Date=20240825T210855Z&X-Amz-Expires=86400&X-Amz-Signature=aca31f99f90ba6d3837fcbf351afa3a1e1d6452e9eb7d50b7e866d203a3cf172&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%222023360JanLawSeasonal-5-Tips-for-Conquering-Dry-January.docx%22&response-content-type=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&x-id=GetObject and output to seperate JSON objects. ",
+        "assistantId": "asst_7dkkLLmjB0v8MlFckXevJi2W",
+        "response_format": "json_object",
+        "parseJSONResponse": true
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "statusCode": 200,
+        "headers": [
+            {
+                "name": "content-type",
+                "value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+            },
+            {
+                "name": "content-length",
+                "value": "14879"
+            },
+            {
+                "name": "connection",
+                "value": "keep-alive"
+            },
+            {
+                "name": "x-amz-id-2",
+                "value": "z082riBRy4C3uOTTCRHvRda8uJzi63cvvowOsrkKudZStyn0pXhDnE50h3JM68AHQpum5M1yB36pAPDQzeIhJA=="
+            },
+            {
+                "name": "x-amz-request-id",
+                "value": "B99HVWFBH2D0SCEM"
+            },
+            {
+                "name": "x-amz-replication-status",
+                "value": "COMPLETED"
+            },
+            {
+                "name": "last-modified",
+                "value": "Sat, 03 Aug 2024 20:11:10 GMT"
+            },
+            {
+                "name": "x-amz-server-side-encryption",
+                "value": "AES256"
+            },
+            {
+                "name": "x-amz-version-id",
+                "value": "okJ7G56StTxx8LCcU2z5N4g0t5exXc87"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "server",
+                "value": "AmazonS3"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 25 Aug 2024 21:08:54 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 03 Aug 2024 21:11:09 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "\"baed0e62e56f6c0c4e12749597173dd3-1\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "default-src 'none'; style-src 'unsafe-inline'; img-src https://*/favicon.ico; sandbox"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-robots-tag",
+                "value": "none"
+            },
+            {
+                "name": "content-disposition",
+                "value": "inline; filename=\"2023_360_Jan_Law_Seasonal-5TipsforConqueringDryJanuary.docx\""
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "1; mode=block"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "referrer-policy",
+                "value": "no-referrer"
+            },
+            {
+                "name": "cache-control",
+                "value": "max-age=14400, immutable"
+            },
+            {
+                "name": "x-cache",
+                "value": "RefreshHit from cloudfront"
+            },
+            {
+                "name": "via",
+                "value": "1.1 a770e75e0ebdb44f23f7a7ef20bbbffa.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "IAD55-P1"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "SfG6nNhji96pYnMRAvpz0UR2bCem006HzRwBhdSn_A2U3u7FlkujCw=="
+            }
+        ],
+        "cookieHeaders": [],
+        "data": "IMTBuffer(14879, binary, c6bb455c5aea9e561aef457d67fa4c415e57180a): 504b03041400060008000000210032916f5766010000a5050000130008025b436f6e74656e745f54797065735d2e786d6c20a2040228a0000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+        "fileSize": 14879,
+        "fileName": "2023_360_Jan_Law_Seasonal-5TipsforConqueringDryJanuary.docx"
+    }
+]
